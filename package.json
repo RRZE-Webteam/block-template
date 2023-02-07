@@ -1,0 +1,23 @@
+{
+    "name": "@rrze/block-template",
+    "version": "0.0.1",
+    "description": "Block Template for @wordpress/create-block",
+    "author": "RRZE Webteam",
+    "license": "GPL-2.0-or-later",
+    "keywords": [
+        "wordpress",
+        "create block",
+        "block template"
+    ],
+    "homepage": "https://github.com/RRZE-Webteam/block-template",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/RRZE-Webteam/block-template.git"
+    },
+    "bugs": {
+        "url": "https://github.com/RRZE-Webteam/block-template/issues"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}
